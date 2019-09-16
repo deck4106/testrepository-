@@ -27,7 +27,7 @@ home-banner-image: "objects/PG8_B229-28.jpg"
 # enter object-id of the above item in order to link to the featured image
 home-banner-image-objectid: pnla001 
 # give title of the image for accessibility
-home-banner-image-title: 
+home-banner-image-title: Two children in costume during the 49'er Parade in Mullan, Idaho.
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
 # optional: change position of image, center, top, bottom
