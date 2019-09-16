@@ -7,7 +7,7 @@ title: CollectionBuilder-GH
 metadata: collection-metadata # 
 # repository is the github repository's full url: 
 # replace CollectionBuilder with your GitHub username and replace 'collectionbuilder-gh' with the name of your repository
-repository: https://github.com/CollectionBuilder/collectionbuilder-gh
+repository: https://github.com/deck4106/testrepository
 
 # WEBSITE HEADER and HEAD metadata for SEO
 # tagline, a short phrase that will appear throughout the site in the top banner
