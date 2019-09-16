@@ -23,11 +23,11 @@ author: CollectionBuilder
 
 # HOME PAGE SECTION
 # give full filename including folder. This image will also appear in meta tags for search and social media
-home-banner-image: "objects/test011.jpg"
+home-banner-image: "objects/PG8_B229-28.jpg"
 # enter object-id of the above item in order to link to the featured image
-home-banner-image-objectid: test011 
+home-banner-image-objectid: pnla001 
 # give title of the image for accessibility
-home-banner-image-title: Snowstorm Concentrator, Troy, Montana. No. 6. 
+home-banner-image-title: 
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
 # optional: change position of image, center, top, bottom
