@@ -4,7 +4,7 @@
 # title of site appears in banner
 title: PNLA DATA COllECTION
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: PNLA-metadata # 
+metadata: pnla-metadata # 
 # repository is the github repository's full url: 
 # replace CollectionBuilder with your GitHub username and replace 'collectionbuilder-gh' with the name of your repository
 repository: https://github.com/deck4106/testrepository
