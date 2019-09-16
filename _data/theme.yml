@@ -2,16 +2,16 @@
 
 # SITE SETTINGS
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: PNLA DATA COllECTION
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: collection-metadata # 
+metadata: PNLA-metadata # 
 # repository is the github repository's full url: 
 # replace CollectionBuilder with your GitHub username and replace 'collectionbuilder-gh' with the name of your repository
 repository: https://github.com/deck4106/testrepository
 
 # WEBSITE HEADER and HEAD metadata for SEO
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: first test for our new meta-data
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
