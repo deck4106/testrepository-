@@ -2,7 +2,7 @@
 
 # SITE SETTINGS
 # title of site appears in banner
-title: PNLA DATA COllECTION
+title: Michael's Stuff
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
 metadata: my-metadata # 
 # repository is the github repository's full url: 
@@ -11,7 +11,7 @@ repository: https://github.com/deck4106/testrepository
 
 # WEBSITE HEADER and HEAD metadata for SEO
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: first test for our new meta-data
+tagline: A few photos from Missoula
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
@@ -23,9 +23,9 @@ author: CollectionBuilder
 
 # HOME PAGE SECTION
 # give full filename including folder. This image will also appear in meta tags for search and social media
-home-banner-image: "objects/PG8_B229-28.jpg"
+home-banner-image: "objects/IMG_0001.jpg"
 # enter object-id of the above item in order to link to the featured image
-home-banner-image-objectid: pnla001 
+home-banner-image-objectid: coll002 
 # give title of the image for accessibility
 home-banner-image-title: Two children in costume during the 49'er Parade in Mullan, Idaho.
 # optional: add extra padding around collection title for a larger image feature. 
