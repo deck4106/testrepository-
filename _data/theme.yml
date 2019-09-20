@@ -23,7 +23,7 @@ author: CollectionBuilder
 
 # HOME PAGE SECTION
 # give full filename including folder. This image will also appear in meta tags for search and social media
-home-banner-image: "objects/IMG_0001.jpg"
+home-banner-image: "objects/IMG_0001.JPG"
 # enter object-id of the above item in order to link to the featured image
 home-banner-image-objectid: coll002 
 # give title of the image for accessibility
