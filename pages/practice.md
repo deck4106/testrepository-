@@ -3,6 +3,10 @@ title: Practice
 layout: page
 permalink: /practice/
 ---
+# About {{ site.data.theme.title }}.
+This is a practice page. But I will link information about the trip to Missoula here.
+
+We saw a show at the Top Hat. https://www.youtube.com/watch?v=kiORQAU9wGc
 
  <div class="card float-right col-md-4 col-12 ml-md-2 my-2 p-0">
     <h5 class="card-header">Creating Your Collection</h5>
